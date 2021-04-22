@@ -87,7 +87,7 @@ public class Controller_Janela_Main {
 	public void PopularTabela(JTable table, ArrayList<Manga> lista) {
 		DefaultTableModel model = (DefaultTableModel) table.getModel();
 
-		Object rowData[] = new Object[lista.size() + 1];
+		Object rowData[] = new Object[3];
 		for (int i = 0; i < lista.size(); i++) {
 			rowData[0] = lista.get(i).getTitulo();
 			rowData[1] = lista.get(i).getDescricao();
