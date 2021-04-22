@@ -3,8 +3,8 @@ Atividade avaliativa da Disciplina de Programação Desktop (SO35A), turma ES51 
 
 Disciplina ministrada por Fabricio M. Lopes, cujo e-mail é fabricio@utfpr.edu.br .
 
-##Proposta base da avaliação
-Criaçã de um projeto que possua pelo menos três telas, organizado no modelo MVC (model, view, control), com a função de escrita e leitura de arquivos em memória (posteriormente em um banco de dados)
+## Proposta base da avaliação
+Criação de um projeto que possua pelo menos três telas, organizado no modelo MVC (model, view, control), com a função de escrita e leitura de arquivos em memória (posteriormente em um banco de dados)
 
 O programa tem como premissa a criação de uma lista de mangás (quadrinhos japoneses publicados em diversos volumes), a ideia veio de minha necessidade como alguém que coleciona de anotar as séries que estou acompanhando e quais volumes ainda preciso comprar de cada série, coisa muito comum já que muitas vezes os volumes que esgotam demoram muito tempo para serem impressos novamente.
 
