@@ -75,5 +75,6 @@ Ao se clicar em "Mostrar todos os mangás" na Janela_Main será aberta a Janela_
 
 
 ### NOTA: 75/100
-### FEEDBACK: "Inverteu o controller. Em geral é usado um controller para realizar as ações a partir de chamadas da janela.
-Implementou apenas duas janelas de CRUD se considerar os mangás e as respectivas listas de volumes. A terceira janela é apenas uma listagem, que não implementa as operações CRUD."
+### FEEDBACK: 
+>"Inverteu o controller. Em geral é usado um controller para realizar as ações a partir de chamadas da janela.
+>Implementou apenas duas janelas de CRUD se considerar os mangás e as respectivas listas de volumes. A terceira janela é apenas uma listagem, que não implementa as operações CRUD."
