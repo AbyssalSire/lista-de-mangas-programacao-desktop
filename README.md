@@ -78,3 +78,24 @@ Ao se clicar em "Mostrar todos os mangás" na Janela_Main será aberta a Janela_
 ### FEEDBACK: 
 >"Inverteu o controller. Em geral é usado um controller para realizar as ações a partir de chamadas da janela.
 >Implementou apenas duas janelas de CRUD se considerar os mangás e as respectivas listas de volumes. A terceira janela é apenas uma listagem, que não implementa as operações CRUD."
+
+
+## ENUNCIADO ATIVIDADE AVALIATIVA 3
+
+>Implementação conectividade Java para banco de dados JDBC
+>
+>Desenvolver uma aplicação desktop que implemente pelo menos 3 janelas com o cadastramento de informações e as operações CRUD (Inserir, Alterar, Consultar e Excluir) em cada uma das janelas (interfaces gráficas). Podem se basear nos códigos apresentados em aula e disponíveis nos materiais das aulas, implementem o PreparedStatement ou o CallableStatement. Sigam o padrão de projeto MVC (model, view, controller) e DAO (será apresentado na aula do dia 04/05/21).
+>
+>Por exemplo, para a implementação de uma janela Cliente é esperado que tenham três classes: JanelaCliente, ClienteDAO e a classe Cliente (model).
+>Logo, é esperada a implementação para três conjuntos como esse e assim, conseguir generalizar a implementação.
+>Crie os pacotes que julgar necessário e entregue a pasta "src" do seu projeto compactada (i.e., incluindo todo o código fonte escrito que permita a execução de sua aplicação e os scripts SQL para a geração das tabelas e a inserção de dados nas tabelas para testes).
+>
+>Qualquer dúvida perguntem em aula, enviem e-mail, postem dúvidas no mural, etc.
+>
+>A implementação deve ser realizada individualmente, cópia recebe zero.
+>
+>Tenham todos um ótimo trabalho!
+
+### NOTA: 80/100
+### FEEDBACK: 
+>Implementou apenas duas tabelas com as operações CRUD (usuarios e manga).
