@@ -4,7 +4,7 @@ Atividade avaliativa da Disciplina de Programação Desktop (SO35A), turma ES51 
 Disciplina ministrada por Fabricio M. Lopes, cujo e-mail é fabricio@utfpr.edu.br .
 
 ## Proposta base da avaliação
-Criação de um projeto que possua pelo menos três telas, organizado no modelo MVC (model, view, control), com a função de escrita e leitura de arquivos em memória (posteriormente em um banco de dados)
+Criação de um projeto que possua pelo menos três telas, organizado no modelo MVC (model, view, control), com a função de escrita e leitura de arquivos em memória (Atividades 1 e 2), posteriormente em um banco de dados (Atividades 3 e 4) com a implmentação de relatório (Atividade 4)
 
 O programa tem como premissa a criação de uma lista de mangás (quadrinhos japoneses publicados em diversos volumes), a ideia veio de minha necessidade como alguém que coleciona de anotar as séries que estou acompanhando e quais volumes ainda preciso comprar de cada série, coisa muito comum já que muitas vezes os volumes que esgotam demoram muito tempo para serem impressos novamente.
 
@@ -99,3 +99,16 @@ Ao se clicar em "Mostrar todos os mangás" na Janela_Main será aberta a Janela_
 ### NOTA: 80/100
 ### FEEDBACK: 
 >Implementou apenas duas tabelas com as operações CRUD (usuarios e manga).
+
+## ENUNCIADO ATIVIDADE AVALIATIVA 4
+>Seguindo com as atividades anteriores, as quais implementaram (JDBC), desenvolva as seguintes funcionalidades:
+> - Implemente pelo menos três relatórios com as informações contidas em banco de dados.
+> - Um dos relatórios deverá ter parâmetro para consulta SQL.
+> - Pelo menos um dos relatórios deverá usar agrupamento de dados e variável de relatório.
+> - Crie os pacotes que julgar necessário e poste a pasta "src" do seu projeto compactada.
+> - Qualquer dúvida perguntem, enviem e-mail, postem dúvidas no mural do google class room, etc.
+> - A implementação deve ser realizada individualmente, cópia recebe zero.
+> - Tenham todos um ótimo trabalho!
+
+### NOTA: ?/100
+### FEEDBACK: 
