@@ -5,6 +5,7 @@ Disciplina ministrada por Fabricio M. Lopes, cujo e-mail é fabricio@utfpr.edu.b
 
 ## Proposta base da avaliação
 Criação de um projeto que possua pelo menos três telas, organizado no modelo MVC (model, view, control), com a função de escrita e leitura de arquivos em memória (Atividades 1 e 2), posteriormente em um banco de dados (Atividades 3 e 4) com a implmentação de relatório (Atividade 4)
+
 Nota: Criador SQL está na pasta src, e foi utilizado PostgreSQL
 
 O programa tem como premissa a criação de uma lista de mangás (quadrinhos japoneses publicados em diversos volumes), a ideia veio de minha necessidade como alguém que coleciona de anotar as séries que estou acompanhando e quais volumes ainda preciso comprar de cada série, coisa muito comum já que muitas vezes os volumes que esgotam demoram muito tempo para serem impressos novamente.
