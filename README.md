@@ -115,4 +115,4 @@ Ao se clicar em "Mostrar todos os mangás" na Janela_Main será aberta a Janela_
 ### NOTA: 100/100
 ### FEEDBACK: - nenhum feedback -
 
-## NOTA FINAL 8.9 -> Aprovado
+# NOTA FINAL 8.9 -> Aprovado
