@@ -112,5 +112,7 @@ Ao se clicar em "Mostrar todos os mangás" na Janela_Main será aberta a Janela_
 > - A implementação deve ser realizada individualmente, cópia recebe zero.
 > - Tenham todos um ótimo trabalho!
 
-### NOTA: ?/100
-### FEEDBACK: 
+### NOTA: 100/100
+### FEEDBACK: - nenhum feedback -
+
+## NOTA FINAL 8.9 -> Aprovado
